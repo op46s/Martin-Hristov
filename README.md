@@ -1,7 +1,7 @@
 # Hi there! I'm Martin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
 **`about.me`**
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
 ```javascript
 const martin: JavaScript Student @ SoftUni = {
     pronouns: 'He' | 'Him',
@@ -14,7 +14,7 @@ const martin: JavaScript Student @ SoftUni = {
 };
 ```
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="10px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <p align="left">
       <a href="https://github.com/op46s?tab=followers">
