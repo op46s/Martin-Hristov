@@ -3,7 +3,7 @@
 **`about.me`**
 
 ```javascript
-const martin: JavaScript Student @ SoftUni = {
+const martin: JavaScript <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> Student @ SoftUni = {
     pronouns: 'He' | 'Him',
     code: {
         ["Javascript"]
@@ -14,7 +14,7 @@ const martin: JavaScript Student @ SoftUni = {
 };
 ```
 
-<img align="left" alt="JavaScript" width="10px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
 
 <p align="left">
       <a href="https://github.com/op46s?tab=followers">
