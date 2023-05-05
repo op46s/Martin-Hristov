@@ -1,6 +1,6 @@
-# Hi there! I'm Martin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
+# Hi there! I'm Martin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px"><img align="left" alt="JavaScript" width="24px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-**`about.me`** <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+**`about.me`** 
 
 ```javascript
 const martin: JavaScript Student @ SoftUni = {
