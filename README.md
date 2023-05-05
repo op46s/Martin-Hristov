@@ -2,13 +2,13 @@
 
 ```javascript
 const martin: JavaScript Student @ SoftUni = {
-    pronouns: "He" | "Him",
+    pronouns: 'He' | 'Him',
     code: {
         ["Javascript"]
     };
-    education: ["Software University of Sofia"],
-    hobbies: ["Photography", "ARPG Gaming", "Travel"],
-    goal: "."
+    education: ['Software University of Sofia'],
+    hobbies: ['Photography', 'ARPG Gaming', 'Travel'],
+    goal: 'frontend software engineer'
 };
 ```
 
