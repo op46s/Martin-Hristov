@@ -3,7 +3,7 @@
 **`about.me()`** 
 
 ```javascript
-const martin: JavaScript Student @ SoftUni = {
+const martin: Currently studying JavaScript at SoftUni.JavaScript Student @ SoftUni = {
     pronouns: 'He' | 'Him',
     code: {
         ["Javascript"]
@@ -11,6 +11,7 @@ const martin: JavaScript Student @ SoftUni = {
     education: ['Software University of Sofia'],
     hobbies: ['Photography', 'ARPG Gaming', 'Travel'],
     goal: 'frontend software engineer'
+    reach: operator46@icloud.com
 };
 ```
 
