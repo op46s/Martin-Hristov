@@ -11,7 +11,7 @@ const martin: Currently studying JavaScript at SoftUni.JavaScript Student @ Soft
     education: ['Software University of Sofia'],
     hobbies: ['Photography', 'ARPG Gaming', 'Travel'],
     goal: 'frontend software engineer',
-    reach: <a href = "mailto: operator46@icloud.com">operator46@icloud.com</a>
+    contact: 'operator46@icloud.com'
 };
 ```
 
