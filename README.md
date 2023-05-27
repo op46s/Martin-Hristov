@@ -4,7 +4,6 @@
 
 ```javascript
 const martin: Currently studying JavaScript at SoftUni.JavaScript Student @ SoftUni = {
-code
        location = 'London',
        code: {
         ["Javascript"]
