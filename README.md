@@ -4,8 +4,7 @@
 
 ```javascript
 const martin: Currently studying JavaScript at SoftUni.JavaScript Student @ SoftUni = {
-    pronouns: 'He' | 'Him',
-    code: {
+       code: {
         ["Javascript"]
     };
     education: ['Software University of Sofia'],
